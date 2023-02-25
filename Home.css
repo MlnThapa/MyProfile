@@ -149,6 +149,7 @@ button{
     .Image-container{
         height:60%;
         width:100%;
+        margin-left: 10%;
         background:var(--black);
         margin-top: 7%;
     } 
