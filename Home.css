@@ -354,7 +354,6 @@ button{
     .skills{
         height:80vh;
         width:100vw;
-        /* background: #C0C0C0; */
      }
     .skills-container{
         color: var(--white);
